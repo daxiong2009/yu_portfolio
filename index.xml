@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Chapter 0: The Test</title>
+      <link>https://daxiong2009.github.io/yu_portfolio/post/chapter-0/</link>
+      <pubDate>Wed, 09 Aug 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://daxiong2009.github.io/yu_portfolio/post/chapter-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chapter II: Pierre Gringoire</title>
       <link>https://daxiong2009.github.io/yu_portfolio/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
@@ -43,7 +52,7 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daxiong2009.github.io/yu_portfolio/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+      <description>If you have any question regarding my articles or my analysis project, or you have some feedbacks, please use the following contact form to send me the message. Please leave you email and question, and I will get back to use ASAP.
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     
